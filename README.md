@@ -39,15 +39,7 @@ This project introduces Arduino programming, digital output pins, LEDs, resistor
 
 > **Note:** The resistor limits the current flowing through the LED and helps protect both the LED and Arduino output pin.
 
----
 
-## 🖼️ Circuit Diagram
-
-Add the project circuit diagram here:
-
-`images/LED_Blinker_Circuit_Diagram.png`
-
----
 
 ## ⚙️ Working Principle
 
